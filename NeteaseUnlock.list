@@ -1,0 +1,7 @@
+http,106.52.127.72,19951, fast-open=false, udp-relay=false, tag= 解锁节点一 
+http,os.dlj.tf,20000, tag= 解锁节点二
+http,os.dlj.tf,30000, tag= 解锁节点三
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁节点四
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_emx2, fast-open=false, udp-relay=false, tag=解锁节点五
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=解锁节点六
+http=block4music.poetyin.me:39000, fast-open=false, udp-relay=false, tag=解锁节点七
