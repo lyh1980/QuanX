@@ -1,1 +1,10 @@
-lyh1980.tk
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "lyh1980.tk",
+      ]
+    }
+  ]
+}
