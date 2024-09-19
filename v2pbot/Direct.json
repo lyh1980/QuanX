@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "lyh1980.tk",
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".weixinsxy.com",
+        ".wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "cherrytv",
+        "cherr"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "219.145.11.40/32",
+      ]
+    }
+  ]
+}
